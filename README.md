@@ -16,7 +16,7 @@ PowerEssentials plugin for Pocketmine-MP
 - [ ] /pvptoggle, /pvpt
 - [ ] /xp <add, reduce, set>
 - [ ] /kits
-- [ ] /sudo <player> <message/command>
+- [x] /sudo <player> <message/command>
 - [ ] /rules
 - [ ] /size <size> [player]
 - [ ] /afk [player]
